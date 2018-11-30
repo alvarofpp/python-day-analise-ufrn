@@ -12,29 +12,23 @@ Curso ministrado durante a [Python Day 2018](https://meetup.grupyrn.org/python-d
 
 ### Diversos
 
-| Nome | Link |
-| ----- | ------ |
-| Plano de dados abertos da UFRN (2016-2018) | https://www.ufrn.br/resources/documentos/planodedadosabertos/Plano-PDA-7out2016.pdf |
-| UFRN é primeira universidade a aprovar Plano de Dados Abertos | http://www.ct.ufrn.br/ufrn-e-primeira-universidade-a-aprovar-plano-de-dados-abertos/ |
-| Índice de dados abertos para cidades (2018) | https://br.okfn.org/files/2018/05/WEB-I%CC%81ndice-de-dados-abertos_v2.pdf |
-| Índice de dados abertos para o Brasil (2017) | [IndiceDadosAbertosBrasil2017-1.pdf](../blob/master/files/IndiceDadosAbertosBrasil2017-1.pdf) |
-| Global Open Data Index | https://index.okfn.org/ |
+- [Plano de dados abertos da UFRN (2016-2018)](https://www.ufrn.br/resources/documentos/planodedadosabertos/Plano-PDA-7out2016.pdf)
+- [UFRN é primeira universidade a aprovar Plano de Dados Abertos](http://www.ct.ufrn.br/ufrn-e-primeira-universidade-a-aprovar-plano-de-dados-abertos/)
+- [Índice de dados abertos para cidades (2018)](https://br.okfn.org/files/2018/05/WEB-I%CC%81ndice-de-dados-abertos_v2.pdf)
+- [Índice de dados abertos para o Brasil (2017)](../master/files/IndiceDadosAbertosBrasil2017-1.pdf)
+- [Global Open Data Index](https://index.okfn.org/)
 
 ### Portais
 
-| Nome | Link |
-| ----- | ------ |
-| Governo Brasileiro | http://dados.gov.br/pagina/dados-abertos |
-| INEP | http://inep.gov.br/dados |
-| Prefeitura de Natal | http://ckan.imd.ufrn.br/ |
-| COMPERVE | http://www.comperve.ufrn.br/conteudo/observatorio/ |
-| UFRN | http://dados.ufrn.br/ |
-| IFRN | https://dados.ifrn.edu.br/ |
-| UFERSA | http://dadosabertos.ufersa.edu.br/ |
+- [Governo Brasileiro](http://dados.gov.br/pagina/dados-abertos)
+- [INEP](http://inep.gov.br/dados)
+- [Prefeitura de Natal](ttp://ckan.imd.ufrn.br/)
+- [COMPERVE](http://www.comperve.ufrn.br/conteudo/observatorio/)
+- [UFRN](http://dados.ufrn.br/)
+- [IFRN](https://dados.ifrn.edu.br/)
+- [UFERSA](http://dadosabertos.ufersa.edu.br/)
 
 ### Trabalhos
 
-| Nome | Link |
-| ------------------------------- |:-------------------- |
-| Análise de Dados de Ensino, Pesquisa e Extensão do Portal de Dados Abertos da UFRN - Ycaro Ravel (2017) | https://github.com/ycaroravel/UFRN-Analytics/ |
+- [Análise de Dados de Ensino, Pesquisa e Extensão do Portal de Dados Abertos da UFRN - Ycaro Ravel (2017)](https://github.com/ycaroravel/UFRN-Analytics/)
 
