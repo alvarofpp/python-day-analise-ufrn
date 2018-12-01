@@ -22,7 +22,7 @@ Curso ministrado durante a [Python Day 2018](https://meetup.grupyrn.org/python-d
 
 - [Governo Brasileiro](http://dados.gov.br/pagina/dados-abertos)
 - [INEP](http://inep.gov.br/dados)
-- [Prefeitura de Natal](ttp://ckan.imd.ufrn.br/)
+- [Prefeitura de Natal](http://ckan.imd.ufrn.br/)
 - [COMPERVE](http://www.comperve.ufrn.br/conteudo/observatorio/)
 - [UFRN](http://dados.ufrn.br/)
 - [IFRN](https://dados.ifrn.edu.br/)
